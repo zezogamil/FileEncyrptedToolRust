@@ -1,0 +1,16 @@
+[package]
+name = "FilesEncryptedCLI"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+aes = "0.8"
+cbc = "0.1"
+hex = "0.4"
+clap = {version = "4.5", features = ["derive"]}
+cipher = "0.4" 
+rand = "0.8"
+base64 = "0.21"
+walkdir = "2.4"
+dialoguer = "0.11"
+anyhow = "1.0"
