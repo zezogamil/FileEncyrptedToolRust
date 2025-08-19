@@ -53,14 +53,58 @@ Run the tool:
        › 1- Encrypt
          2- Decrypt
          3- Help
-  
+
+
+Encrypting Files/Folders
+
+    Select option 1 for encryption
+    Provide the path to the file or folder you want to encrypt
+    Enter a secure password/key
+    The tool will create encrypted versions of your files
+
+Decrypting Files/Folders
+
+    Select option 2 for decryption
+    Provide the path to the encrypted file or folder
+    Enter the correct password/key used for encryption
+    The tool will restore the original files
+
+Getting Help
+
+    Select option 3 to view detailed help information and usage examples.
+
+
+## 📦 Dependencies
+ 
+The project uses the following Rust crates:
+
+      aes - AES encryption implementation
+      cbc - Cipher Block Chaining mode
+      rand - Random number generation for IVs
+      clap - Command line argument parsing (if CLI args are supported)
+      Additional crates as specified in Cargo.toml
 ## 🧠 How It Works
         AES-256-CBC is used with PKCS7 padding.
         A 256-bit key and 128-bit IV are randomly generated per file.
         The IV is prepended to the encrypted output.
         The key must be securely stored or remembered for decryption.
+
+## 🤝 Contributing
+     Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests.
 ## 👨‍💻 Author 
     Abdelaziz Gamil 
     Software Engineer
+
+## ⚠️ Disclaimer
+This tool is provided as-is for educational and legitimate use cases. Users are responsible for:
+
+     Keeping their encryption keys secure
+     Complying with local laws and regulations
+     Using the tool ethically and responsibly
+
+Important: Always backup your important files before encryption. Lost encryption keys cannot be recovered.    
 ## ©️ Copyright
     © 2025 Abdelaziz Gamil. All rights reserved.
+
+______________________________________________________________________________________________________________
+⭐ If you find this project useful, please consider giving it a star on GitHub!
