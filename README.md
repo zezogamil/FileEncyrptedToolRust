@@ -27,7 +27,7 @@ A secure and efficient file encryption tool built in Rust, offering both command
 
 ## 🔧 Installation
 
-     Prerequisites
+ Prerequisites
 
      Rust (1.70 or later)
      Cargo package manager
