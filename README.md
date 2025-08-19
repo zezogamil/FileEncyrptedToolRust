@@ -31,6 +31,22 @@ A secure and efficient file encryption tool built in Rust, offering both command
 
      Rust (1.70 or later)
      Cargo package manager
+     
+Build from Source
+
+    Clone the repository:
+
+    bashgit clone https://github.com/zezogamil/FileEncyrptedToolRust.git
+    cd FileEncyrptedToolRust
+
+Build the project:
+
+    bashcargo build --release
+
+Run the tool:
+
+    bashcargo run
+
 
 ## 🔐 Hello to FilesEncrypted CLI 🔐
        ✔ Choose the desired option:
