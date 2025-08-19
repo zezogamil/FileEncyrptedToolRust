@@ -1,8 +1,8 @@
 # FileEncyrptedToolRust
 a file encrypt tool by rust, the tool will have both GUI options and CLI 
 
-## 🔐 FilesEncrypted CLI
-A secure and simple Rust-based command-line tool to encrypt and decrypt files or folders using AES-256 encryption. Designed for speed, clarity, and modular structure.
+## FileEncryptedToolRust 🔐
+A secure and efficient file encryption tool built in Rust, offering both command-line interface (CLI) and graphical user interface (GUI) options for encrypting and decrypting files and folders.
 
 
 ## Pdf_Encryptor Structure
