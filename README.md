@@ -1,12 +1,24 @@
+<h1 align="center">FILEENCRYPTEDTOOLRUST</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/aes-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/cbc-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/rand-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/clap-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/serde-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tokio-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  Secure File Encryption & Decryption with AES-256 Protection
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/zezogamil/FileEncyrptedToolRust?style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/top/zezogamil/FileEncyrptedToolRust?style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/count/zezogamil/FileEncyrptedToolRust?style=for-the-badge" />
+</p>
+<p align="center">
+  Built with the tools and technologies:
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AES--256--CBC-FF0000?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PKCS7-4285F4?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/File_I/O-00D084?style=for-the-badge&logo=files&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=windowsterminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GUI_Planned-9B59B6?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cross_Platform-FF7139?style=for-the-badge&logo=rust&logoColor=white"/>
+</p>
 
 # FileEncyrptedToolRust
 a file encrypt tool by rust, the tool will have both GUI options and CLI 
