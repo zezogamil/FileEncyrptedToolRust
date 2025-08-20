@@ -12,12 +12,12 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AES--256--CBC-FF0000?style=for-the-badge&logo=security&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PKCS7-4285F4?style=for-the-badge&logo=security&logoColor=white"/>
-  <img src="https://img.shields.io/badge/File_I/O-00D084?style=for-the-badge&logo=files&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=windowsterminal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GUI_Planned-9B59B6?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cargo-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AES_256-FF6B6B?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cryptography-4285F4?style=for-the-badge&logo=keepassxc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CLI-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cross_Platform-FF7139?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Memory_Safe-DEA584?style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
 
 # FileEncyrptedToolRust
