@@ -1,3 +1,26 @@
+<h1 align="center">FILEENCRYPTEDTOOLRUST</h1>
+<p align="center">
+  Secure File Encryption & Decryption with AES-256 Protection
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/zezogamil/FileEncyrptedToolRust?style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/top/zezogamil/FileEncyrptedToolRust?style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/count/zezogamil/FileEncyrptedToolRust?style=for-the-badge" />
+</p>
+<p align="center">
+  Built with the tools and technologies:
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cargo-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AES_256-FF6B6B?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cryptography-4285F4?style=for-the-badge&logo=keepassxc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CLI-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cross_Platform-FF7139?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Memory_Safe-DEA584?style=for-the-badge&logo=rust&logoColor=white"/>
+</p>
+
+
 # FileEncyrptedToolRust
 a file encrypt tool by rust, the tool will have both GUI options and CLI 
 
